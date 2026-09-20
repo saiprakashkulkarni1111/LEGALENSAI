@@ -1,0 +1,49 @@
+EMPLOYMENT AND CONFIDENTIALITY AGREEMENT
+
+[SYNTHETIC DEMO - PREPARED FOR LEGALENS EVALUATION]
+
+This Employment Agreement ("Agreement") is executed on 15th January 2026 at Bangalore, Karnataka, by and between:
+
+TechNova Solutions Private Limited, a company incorporated under the Companies Act, 2013, having its registered corporate office at Indiranagar, Bangalore - 560038, Karnataka (hereinafter referred to as the "Company", which expression shall include its successors and assigns);
+
+AND
+
+Mr. Rohan Sharma, residing at Flat 402, Green Glen Layout, Bellandur, Bangalore - 560103, Karnataka, holding PAN ABCPS1234F and Aadhaar Number 9876 5432 1098 (hereinafter referred to as the "Employee").
+
+1. APPOINTMENT AND COMMENCEMENT
+The Company hereby employs the Employee as Principal Systems Architect, and the Employee accepts employment commencing on 1st February 2026. The initial probationary period shall be for a duration of 3 months from the date of joining.
+
+2. COMPENSATION AND REMUNERATION
+The Employee shall be entitled to an annual gross compensation of INR 28,00,000 (Twenty-Eight Lakhs Rupees only). The salary shall be payable monthly on or before the 5th day of each calendar month directly into the Employee's designated bank account (HDFC Bank A/C No: 50100234567891, IFSC: HDFC0001234).
+
+3. NOTICE PERIOD AND TERMINATION
+Either party may terminate this Agreement by providing 30 days prior written notice to the other party. The Company reserves the right to terminate the Employee's employment immediately without notice in the event of gross misconduct, willful insubordination, or material breach of this Agreement.
+
+4. LIQUIDATED DAMAGES AND MINIMUM COMMITMENT
+The Employee agrees to serve the Company for a minimum commitment period of 12 months from the date of joining. In the event the Employee departs prior to completion of the 12-month period, the Employee shall pay to the Company a fixed sum of INR 5,00,000 (Five Lakhs Rupees) as liquidated damages for training and operational disruption.
+
+5. RESTRICTIVE COVENANT AND NON-COMPETE
+During the term of employment and for a period of 24 months following the termination of employment for any reason whatsoever, the Employee shall not directly or indirectly engage in, advise, invest in, or be employed by any entity operating a competing enterprise in the territory of India.
+
+6. NON-SOLICITATION
+For a period of 12 months post-termination, the Employee shall not actively solicit, entice away, or attempt to hire any existing full-time employee or active client of the Company.
+
+7. CONFIDENTIAL INFORMATION AND NON-DISCLOSURE
+The Employee acknowledges that during employment, they will have access to proprietary trade secrets, system architectures, customer databases, and software algorithms. The Employee shall hold all such confidential information in strict trust and confidence.
+
+8. INTELLECTUAL PROPERTY ASSIGNMENT
+All inventions, software code, technical documentation, designs, and patentable works developed by the Employee in the course of employment shall be the sole and exclusive property of the Company as a work made for hire.
+
+9. DISPUTE RESOLUTION AND ARBITRATION
+Any dispute, controversy, or claim arising out of or relating to this Agreement shall be settled by binding arbitration in accordance with the Arbitration and Conciliation Act, 1996. The seat and venue of arbitration shall be Bangalore, Karnataka.
+
+10. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by, and construed in accordance with, the laws of the Republic of India. Subject to the arbitration clause, the competent courts at Bangalore shall have exclusive territorial jurisdiction.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+For TechNova Solutions Pvt. Ltd.
+Authorized Signatory
+
+Employee:
+Rohan Sharma

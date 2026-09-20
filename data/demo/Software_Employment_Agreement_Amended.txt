@@ -1,0 +1,32 @@
+AMENDED EMPLOYMENT AND CONFIDENTIALITY AGREEMENT
+
+[SYNTHETIC DEMO - VERSION B WITH MODIFIED TERMS]
+
+This Amended Employment Agreement ("Agreement") is executed on 1st February 2026 at Bangalore, Karnataka, by and between TechNova Solutions Private Limited and Mr. Rohan Sharma.
+
+1. APPOINTMENT AND COMMENCEMENT
+The Company employs the Employee as Senior Principal Systems Architect commencing on 1st February 2026.
+
+2. COMPENSATION AND REMUNERATION
+The Employee shall be entitled to an annual gross compensation of INR 32,00,000 payable monthly on or before the 1st day of each calendar month.
+
+3. NOTICE PERIOD AND TERMINATION
+Either party may terminate this Agreement by providing 7 days prior written notice to the other party. The Company reserves the right to terminate immediately without notice in case of cause.
+
+4. LIQUIDATED DAMAGES AND MINIMUM COMMITMENT
+The Employee agrees to a minimum commitment period of 18 months from the date of joining. Departure prior to completion shall incur a penalty payment of INR 8,00,000 as liquidated damages.
+
+5. RESTRICTIVE COVENANT AND NON-COMPETE
+For a period of 36 months post-termination, the Employee shall not directly or indirectly work for any competitor in India.
+
+6. CONFIDENTIAL INFORMATION AND NON-DISCLOSURE
+The Employee shall maintain strict confidentiality over all proprietary source code and client data indefinitely.
+
+7. DATA PRIVACY AND COMPLIANCE
+The Employee shall process all personal data strictly in compliance with the Digital Personal Data Protection Act, 2023 and company security frameworks.
+
+8. DISPUTE RESOLUTION AND ARBITRATION
+Any dispute shall be referred to arbitration in accordance with the Arbitration and Conciliation Act, 1996 in Bangalore.
+
+9. GOVERNING LAW AND JURISDICTION
+This Agreement is governed by the laws of India and subject to the exclusive jurisdiction of the courts at Bangalore.

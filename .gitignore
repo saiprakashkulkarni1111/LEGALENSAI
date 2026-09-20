@@ -1,0 +1,17 @@
+.env
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.db
+legalens.db
+.venv/
+venv/
+node_modules/
+frontend/.next/
+frontend/out/
+data/uploads/
+*.log
+.DS_Store

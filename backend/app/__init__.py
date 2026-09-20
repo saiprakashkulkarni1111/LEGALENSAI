@@ -1,0 +1,1 @@
+"""LEGALENS AI application package."""
