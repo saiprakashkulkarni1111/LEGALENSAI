@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Legalens AI</string>
+    <string name="tagline">Evidence-first legal intelligence for India</string>
+    <string name="disclaimer">Legalens AI provides legal information and document assistance. It does not replace a lawyer, predict court outcomes, or invent citations.</string>
+</resources>

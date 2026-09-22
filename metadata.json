@@ -1,0 +1,6 @@
+{
+  "name": "Legalens AI",
+  "description": "Evidence-first legal intelligence for India. Analyze contracts, verify citations, inspect timelines, compare drafts, and prepare briefing packs for counsel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

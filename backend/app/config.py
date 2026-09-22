@@ -41,11 +41,12 @@ class Settings(BaseSettings):
     MAX_UPLOAD_SIZE_MB: int = 25
     ALLOWED_EXTENSIONS: List[str] = ["pdf", "docx", "txt", "png", "jpg", "jpeg"]
 
-    # AI Models
-    ANTHROPIC_API_KEY: Optional[str] = None
-    GOOGLE_API_KEY: Optional[str] = None
-    OPENAI_API_KEY: Optional[str] = None
-    DEFAULT_LLM_PROVIDER: str = "auto"
+    # AI Models - Single Unified API Key (Google Gemini)
+    GOOGLE_API_KEY: Optional[str] = Field(
+        default_factory=lambda: os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY"),
+        description="Single API key used for all AI tasks across the platform (Google Gemini)"
+    )
+    DEFAULT_LLM_PROVIDER: str = "gemini"
     EMBEDDING_DIMENSION: int = 384
 
     # Security & Guardrails
